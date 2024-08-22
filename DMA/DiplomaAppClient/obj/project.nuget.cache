@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CF34KGOa/v/8tlH4oVegFPS1S8ysqg55f0+KjQKJOmrlc6CO+LMGlCgHkXLIYgvJTA7ymMz2aO3iHNb6/WRYHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DiplomaAppClient\\DiplomaAppClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

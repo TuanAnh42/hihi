@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\controllers\\trainingprogramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:controllers\\trainingprogramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\models\\dlmmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:models\\dlmmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\controllers\\diplomascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:controllers\\diplomascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\models\\trainingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:models\\trainingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\requestmodels\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:requestmodels\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A629B0-210E-477B-82CC-F8DB23F90E01}|..\\DiplomaAppClient\\DiplomaAppClient.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\diplomaappclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A629B0-210E-477B-82CC-F8DB23F90E01}|..\\DiplomaAppClient\\DiplomaAppClient.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\diplomaappclient\\diplomaappclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\controllers\\diplomatypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:controllers\\diplomatypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|c:\\users\\dell\\aptech\\c2110i\\dma\\dipplomaapp\\controllers\\rankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CF73-AF87-4FC9-9732-F89DCAD330E4}|DipplomaApp.csproj|solutionrelative:controllers\\rankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DlmmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Models\\DlmmsContext.cs",
+              "RelativeDocumentMoniker": "Models\\DlmmsContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Models\\DlmmsContext.cs",
+              "RelativeToolTip": "Models\\DlmmsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-24T08:39:09.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiplomaAppClient.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DiplomaAppClient\\DiplomaAppClient.csproj",
+              "RelativeDocumentMoniker": "..\\DiplomaAppClient\\DiplomaAppClient.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DiplomaAppClient\\DiplomaAppClient.csproj",
+              "RelativeToolTip": "..\\DiplomaAppClient\\DiplomaAppClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-04-24T08:38:55.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:52:33.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiplomasController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\DiplomasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiplomasController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\DiplomasController.cs",
+              "RelativeToolTip": "Controllers\\DiplomasController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwCgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:52:14.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainingProgramsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\TrainingProgramsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainingProgramsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\TrainingProgramsController.cs",
+              "RelativeToolTip": "Controllers\\TrainingProgramsController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:56:48.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\RequestModels\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "RequestModels\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\RequestModels\\LoginRequestModel.cs",
+              "RelativeToolTip": "RequestModels\\LoginRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:57:32.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DiplomaAppClient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\DiplomaAppClient\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DiplomaAppClient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\DiplomaAppClient\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:57:21.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainingType.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Models\\TrainingType.cs",
+              "RelativeDocumentMoniker": "Models\\TrainingType.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Models\\TrainingType.cs",
+              "RelativeToolTip": "Models\\TrainingType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:52:56.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:52:50.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Utilities.cs",
+              "RelativeDocumentMoniker": "Utilities.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Utilities.cs",
+              "RelativeToolTip": "Utilities.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:57:50.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiplomaTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\DiplomaTypesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiplomaTypesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\DiplomaTypesController.cs",
+              "RelativeToolTip": "Controllers\\DiplomaTypesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:57:13.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RanksController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\RanksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RanksController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Aptech\\C2110I\\DMA\\DipplomaApp\\Controllers\\RanksController.cs",
+              "RelativeToolTip": "Controllers\\RanksController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-23T09:57:04.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
